@@ -51,7 +51,7 @@ If you are a developer and want the raw source code for self-hosting:
 ---
 
 ## 🔗 Official Links
-* **Live Demo Bot:** [t.me/YOUR_BOT_USERNAME](https://t.me/forwardalert_bot)
+* **Live Demo Bot:** [t.me/forwardalert_bot](https://t.me/forwardalert_bot)
 * **Web Dashboard:** [tgantiforward.com](https://tgantiforward.com)
 * **Developer Support:** [t.me/gamethesystem](https://t.me/gamethesystem)
 
