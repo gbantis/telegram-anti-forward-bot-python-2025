@@ -41,7 +41,7 @@ You don't need to run this code yourself. We host the secure instance for you.
 If you are a developer and want the raw source code for self-hosting:
 
 1.  Clone this repository (Limited Version).
-2.  For the full **Enterprise Source Code**, contact us via the [Official Bot](https://t.me/YOUR_BOT_USERNAME).
+2.  For the full **Enterprise Source Code**, contact us via the [Official Bot](https://t.me/forwardalert_bot).
 3.  Run:
     ```bash
     pip install -r requirements.txt
